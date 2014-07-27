@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Sharpsole.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="References" Type="System.Collections.Specialized.StringCollection" Scope="User">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;string&gt;mscorlib.dll&lt;/string&gt;
+  &lt;string&gt;System.dll&lt;/string&gt;
+  &lt;string&gt;System.Core.dll&lt;/string&gt;
+  &lt;string&gt;System.Text.RegularExpressions.dll&lt;/string&gt;
+  &lt;string&gt;System.Drawing.dll&lt;/string&gt;
+  &lt;string&gt;System.Xml.dll&lt;/string&gt;
+  &lt;string&gt;System.Data.dll&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+    <Setting Name="IsVerbose" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
