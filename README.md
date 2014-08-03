@@ -15,3 +15,8 @@ sharpsole fileA.cs fileB.cs
 
 In the Sharpsole.exe.config you can adjust the referenced assemblies and set if Sharpsole
 should be verbose (print information) or not.
+
+
+C# Extensions:
+
+#library Path/To/Library.dll // Add reference to custom library.
